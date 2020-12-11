@@ -1,0 +1,23 @@
+.row {
+   padding-left: 100px;
+   padding-right: 100px;
+}
+.container {
+    text-align: center;
+}
+
+#btn {
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+h2 {
+    padding: 30px;
+    text-align: center;
+    word-wrap: none;
+}
+h3 {
+    
+}
+
+
